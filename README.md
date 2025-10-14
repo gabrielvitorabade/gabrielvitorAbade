@@ -5,8 +5,8 @@ Bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado por tecnologia e desen
 ## 🚀 Sobre mim
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💡 Buscando aprender e crescer na área de programação  
-🌱 Atualmente estudando **Node.js**, **Express**, **MySQL** e **React**  
-📚 Sempre interessado em boas práticas de código e desenvolvimento ágil  
+🌱 Atualmente trabalhando com **React**, **Node.js**, **Express** e **MySQL**   
+📚 Sempre interessado em boas práticas de código e desenvolvimento ágil.
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens:** JavaScript  
@@ -15,7 +15,7 @@ Bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado por tecnologia e desen
 - **Web:** HTML, CSS, DOM  
 
 ## 📫 Como me encontrar
-[LinkedIn](https://www.linkedin.com/in/gabriel-abade-6123b21a2/) | [GitHub](https://github.com/gabrielvitorabade)  
+[LinkedIn](https://www.linkedin.com/in/gabriel-abade-6123b21a2/) | [GitHub](https://github.com/gabrielvitorabade) | [Meu site](https://main.doeyhh0v874ox.amplifyapp.com/)
 
 🚀 Sempre aberto a novos desafios e colaborações. Vamos construir algo incrível juntos!
 
