@@ -1,4 +1,4 @@
-# 💻 Gabriel Abade | Estudante de Programação e Desenvolvimento de Sistemas 
+# 💻 Gabriel Abade | Programador Full-stack com foco em Front-end 
 
 Bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado por tecnologia e desenvolvimento de sistemas. Estou sempre explorando novas ferramentas e aprimorando minhas habilidades.
 
